@@ -5665,8 +5665,8 @@ toclipboard("7958755146")
 end)
 
 AccesoiresSection:NewButton("[ANIME] Ailes de la pleine lune (OFFSALE)", "...", function()
-    setclipboard("7958755146")
-toclipboard("7958755146")
+    setclipboard("7958785133")
+toclipboard("7958785133")
 end)
 
 AccesoiresSection:NewButton("[FEUILLES] Bonsai d'automne (OFFSALE)", "...", function()
@@ -11715,7 +11715,7 @@ AccesoiresSection:NewButton("[MUSIQUE] Cassette des années 90 (OFFSALE)", "..."
 toclipboard("9648621712")
 end)
 
-AccesoiresSection:NewButton("[ANIME] Sac de robux (OFFSALE)", "...", function()
+AccesoiresSection:NewButton("[BILLET] Sac de robux (OFFSALE)", "...", function()
     setclipboard("9243927199")
 toclipboard("9243927199")
 end)
@@ -11725,7 +11725,7 @@ AccesoiresSection:NewButton("[FUME] Flammes maudites dorées (OFFSALE)", "...", 
 toclipboard("8666557244")
 end)
 
-AccesoiresSection:NewButton("Bâton magique enchanté (13K robux)", "...", function()
+AccesoiresSection:NewButton("[ANIME] Bâton magique enchanté (13K robux)", "...", function()
     setclipboard("3127608140")
 toclipboard("3127608140")
 end)
@@ -11733,6 +11733,16 @@ end)
 AccesoiresSection:NewButton("[ANIME] Cheuveux de savant brûlés (100 robux)", "...", function()
     setclipboard("2316755277")
 toclipboard("2316755277")
+end)
+
+AccesoiresSection:NewButton("[FEU] Casque de viking (OFFSALE)", "...", function()
+    setclipboard("262669756")
+toclipboard("262669756")
+end)
+
+AccesoiresSection:NewButton("[LUMIERE] Diamant du golem (400 robux)", "...", function()
+    setclipboard("4504231783")
+toclipboard("4504231783")
 end)
 
 AccesoiresSection:NewButton("[FEU] épaulières crâne (OFFSALE)", "...", function()
@@ -11778,6 +11788,11 @@ end)
 AccesoiresSection:NewButton("[ANIME] Bannière du Samouraï vengeur (OFFSALE)", "...", function()
     setclipboard("4739738574")
 toclipboard("4739738574")
+end)
+
+AccesoiresSection:NewButton("[COUTEAUX] Couronne de couteaux (OFFSALE)", "...", function()
+    setclipboard("11453295585")
+toclipboard("11453295585")
 end)
 
 AccesoiresSection:NewButton("[FUME] Masque Steampunk (OFFSALE)", "...", function()
@@ -11845,6 +11860,31 @@ AccesoiresSection:NewButton("[FUME] Casserole de pâtes (OFFSALE)", "...", funct
 toclipboard("8462197595")
 end)
 
+AccesoiresSection:NewButton("[FUME] Glace Pilée froide (OFFSALE)", "...", function()
+    setclipboard("9560392730")
+toclipboard("9560392730")
+end)
+
+AccesoiresSection:NewButton("[ANIME] Tranches de pastèque (OFFSALE)", "...", function()
+    setclipboard("9560398801")
+toclipboard("9560398801")
+end)
+
+AccesoiresSection:NewButton("[BRILLIANT] Asiette à dessert (OFFSALE)", "...", function()
+    setclipboard("8862923874")
+toclipboard("8862923874")
+end)
+
+AccesoiresSection:NewButton("[FUME] Boulettes de Diwali (OFFSALE)", "...", function()
+    setclipboard("10607577125")
+toclipboard("10607577125")
+end)
+
+AccesoiresSection:NewButton("[FUME] Une tasse de Gahwa (OFFSALE)", "...", function()
+    setclipboard("10911402139")
+toclipboard("10911402139")
+end)
+
 AccesoiresSection:NewButton("[PROUT] Moufette pue du cul (OFFSALE)", "...", function()
     setclipboard("11385808641")
 toclipboard("11385808641")
@@ -11858,6 +11898,16 @@ end)
 AccesoiresSection:NewButton("[FEU] Renard trop cool (OFFSALE)", "...", function()
     setclipboard("9781880932")
 toclipboard("9781880932")
+end)
+
+AccesoiresSection:NewButton("[FEU] Phoenix brilliant (OFFSALE)", "...", function()
+    setclipboard("7958787413")
+toclipboard("7958787413")
+end)
+
+AccesoiresSection:NewButton("[FEU] Renard fougeux (OFFSALE)", "...", function()
+    setclipboard("5205483683")
+toclipboard("5205483683")
 end)
 
 AccesoiresSection:NewButton("[ANIME] La chouette (OFFSALE)", "...", function()
@@ -11891,8 +11941,8 @@ toclipboard("7958755146")
 end)
 
 AccesoiresSection:NewButton("[ANIME] Ailes de la pleine lune (OFFSALE)", "...", function()
-    setclipboard("7958755146")
-toclipboard("7958755146")
+    setclipboard("7958785133")
+toclipboard("7958785133")
 end)
 
 AccesoiresSection:NewButton("[FEUILLES] Bonsai d'automne (OFFSALE)", "...", function()
@@ -11960,19 +12010,19 @@ AccesoiresSection:NewButton("[ANIME] décompteur du nouvel an (OFFSALE)", "...",
 toclipboard("8011546326")
 end)
 
-AccesoiresSection:NewButton("[ANIME] La ville de roblox (OFFSALE)", "...", function()
+AccesoiresSection:NewButton("[ANIME] Réveil heureux du nouvel an (OFFSALE)", "...", function()
+    setclipboard("11714032174")
+toclipboard("11714032174")
+end)
+
+AccesoiresSection:NewButton("[ANIME] Réveil fêtard du nouvel an (OFFSALE)", "...", function()
+    setclipboard("8011584416")
+toclipboard("8011584416")
+end)
+
+AccesoiresSection:NewButton("[ANIME] Test La ville de roblox (OFFSALE)", "...", function()
     setclipboard("2649326901")
 toclipboard("2649326901")
-end)
-
-AccesoiresSection:NewButton("[LUMIERE] Diamant du golem (OFFSALE)", "...", function()
-    setclipboard("4504231783")
-toclipboard("4504231783")
-end)
-
-AccesoiresSection:NewButton("[FEU] Casque de viking (OFFSALE)", "...", function()
-    setclipboard("262669756")
-toclipboard("262669756")
 end)
 
 AccesoiresSection:NewButton("[ANIME] Purple With Valk (OFFSALE)", "...", function()
