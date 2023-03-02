@@ -488,10 +488,9 @@ end)
 psy:Seperator()
 
 psy:Button("Message à faire passer",function()
-setclipboard("game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(0,50,0)")
-toclipboard("game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(0,50,0)")
+setclipboard("Instance.new("Hint", game.CoreGui).Text = "Lololol"")
+toclipboard("Instance.new("Hint", game.CoreGui).Text = "Lololol"")
 end)
-
 
 
 local drops = serv:Channel("Dropdowns")
