@@ -488,7 +488,8 @@ end)
 psy:Seperator()
 
 psy:Button("Message à faire passer",function()
-Instance.new("Hint", game.CoreGui).Text = "Lololol"
+setclipboard("game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(0,50,0)")
+toclipboard("game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(0,50,0)")
 end)
 
 
