@@ -43,3 +43,10 @@ local Button = Tab:CreateButton({
    loadstring(game:HttpGet(('https://raw.githubusercontent.com/arko34920v2/AOMFORCE/main/AOM%20PANEL')))()
    end,
 })
+
+local Button = Tab:CreateButton({
+   Name = "Fermer cette  merde",
+   Callback = function()
+   Rayfield:Destroy()
+   end,
+})
